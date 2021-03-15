@@ -4,4 +4,5 @@ my code examples from training and work projects
 ### Airflow
 https://github.com/bukreevai/airflow-extensions
 ## SQL
+https://github.com/bukreevai/portfolio/tree/main/SQL
 ## Groovy scripts
