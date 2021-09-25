@@ -1,8 +1,5 @@
 # Portfolio
 my code examples from training and work projects
-## Python
-### Airflow
-[Extensions](https://github.com/bukreevai/airflow-extensions)
 ## SQL
-[Scripts](https://github.com/bukreevai/portfolio/tree/main/SQL)
-## Groovy scripts
+[Scripts](https://github.com/bukreevai/portfolio/tree/main/SQL/readme.md)
+

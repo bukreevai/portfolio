@@ -188,3 +188,5 @@ left join routes r2
 Далее рассчитываются вычисляемые поля: 
 * Расстояние между городами 
 * Процент запаса хода самолёта, выполняющего данный рейс 
+
+## [sources](https://github.com/bukreevai/portfolio/tree/main/SQL/scripts)
